@@ -28,9 +28,6 @@ To get started with this repository, you can follow these steps:
 
 Contributions to this repository are welcome! If you have any additional notes, assignments, or resources related to DBMS that you would like to share, feel free to open a pull request. Together, we can build a comprehensive collection of DBMS materials to help fellow learners.
 
-## License
-
-This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the contents of this repository for educational purposes.
 
 ## Acknowledgements
 
